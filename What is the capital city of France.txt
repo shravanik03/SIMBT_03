@@ -1,0 +1,177 @@
+What is the capital city of France?
+Options:
+A) Paris
+B) London
+C) Madrid
+D) Rome
+Hint: The city is famous for the Eiffel Tower and its museums.
+Correct answer: A) Paris
+
+Who painted the famous painting "The Mona Lisa"?
+Options:
+A) Vincent van Gogh
+B) Michelangelo
+C) Pablo Picasso
+D) Leonardo da Vinci
+Hint: This Italian painter was also a scientist, inventor, and writer.
+Correct answer: D) Leonardo da Vinci
+
+In what year did World War II end?
+Options:
+A) 1945
+B) 1914
+C) 1939
+D) 1950
+Hint: The war lasted six years and involved many countries.
+Correct answer: A) 1945
+
+What is the largest planet in our solar system?
+Options:
+A) Mars
+B) Saturn
+C) Jupiter
+D) Earth
+Hint: This gas giant has a giant red spot on its surface.
+Correct answer: C) Jupiter
+
+Who wrote the Harry Potter book series?
+Options:
+A) J.K. Rowling
+B) Stephen King
+C) George R.R. Martin
+D) Dan Brown
+Hint: The author is British and started writing the series in the 1990s.
+Correct answer: A) J.K. Rowling
+
+What is the smallest country in the world?
+Options:
+A) Monaco
+B) San Marino
+C) Vatican City
+D) Liechtenstein
+Hint: This country is located within the city of Rome.
+Correct answer: C) Vatican City
+
+Which country is known as the Land of the Rising Sun?
+Options:
+A) China
+B) Japan
+C) South Korea
+D) Thailand
+Hint: This country is famous for sushi, samurai, and anime.
+Correct answer: B) Japan
+
+Who was the first president of the United States?
+Options:
+A) George Washington
+B) Abraham Lincoln
+C) Thomas Jefferson
+D) John F. Kennedy
+Hint: This Founding Father led the American Revolution against Great Britain.
+Correct answer: A) George Washington
+
+What is the largest mammal in the world?
+Options:
+A) Elephant
+B) Giraffe
+C) Blue whale
+D) Hippopotamus
+Hint: This marine animal can weigh up to 200 tons.
+Correct answer: C) Blue whale
+
+Who painted the famous painting "Starry Night"?
+Options:
+A) Pablo Picasso
+B) Vincent van Gogh
+C) Claude Monet
+D) Salvador Dali
+Hint: This Dutch painter suffered from mental illness and only sold one painting during his lifetime.
+Correct answer: B) Vincent van Gogh
+
+Which country is both a continent and a country?
+Options:
+A) Australia
+B) Canada
+C) Brazil
+D) Russia
+Hint: This country is home to kangaroos, koalas, and the Great Barrier Reef.
+Correct answer: A) Australia
+
+What is the largest desert in the world?
+Options:
+A) Sahara
+B) Gobi
+C) Arctic
+D) Antarctic
+Hint: This desert covers an area of about 3.6 million square miles.
+Correct answer: A) Sahara
+
+What is the highest mountain in the world?
+Options:
+A) Mount Kilimanjaro
+B) Mount Everest
+C) Mount Denali
+D) Mount Fuji
+Hint: This mountain is located in the Himalayas and is over 29,000 feet tall
+Correct answer: B) Mount Everest
+
+Who wrote the play "Romeo and Juliet"?
+Options:
+A) William Shakespeare
+B) Tennessee Williams
+C) Arthur Miller
+D) Eugene O'Neill
+Hint: This English playwright is considered one of the greatest writers in the English language.
+Correct answer: A) William Shakespeare
+
+What is the smallest planet in our solar system?
+Options:
+A) Mars
+B) Mercury
+C) Venus
+D) Neptune
+Hint: This planet is named after the Roman messenger god.
+Correct answer: B) Mercury
+
+Who discovered electricity?
+Options:
+A) Thomas Edison
+B) Benjamin Franklin
+C) Nikola Tesla
+D) James Watt
+Hint: This American statesman and scientist conducted the famous kite experiment to demonstrate the nature of electricity.
+Correct answer: B) Benjamin Franklin
+
+What is the capital city of Italy?
+Options:
+A) Paris
+B) Berlin
+C) Rome
+D) Madrid
+Hint: This city is famous for its ancient ruins, art, and architecture.
+Correct answer: C) Rome
+
+Which element is represented by the chemical symbol Fe?
+Options:
+A) Iron
+B) Gold
+C) Silver
+D) Copper
+Hint: This metal is a common component of steel.
+Correct answer: A) Iron
+
+What is the largest ocean in the world?
+Options:
+A) Atlantic
+B) Indian
+C) Pacific
+D) Arctic
+Hint: This ocean covers about one-third of the Earth's surface.
+Correct answer: C) Pacific
+
+Is the Earth round?
+Options:
+A) True
+B) False
+Hint: This question is a true/false question.
+Correct answer: A) True

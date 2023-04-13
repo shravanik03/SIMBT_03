@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz-App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="wrapper">
+        <!--Home section-->
+        <div class="container">
+            <img src="./Images/logo-bulb.svg" width="180px" height="200px" alt="">
+            <h1>Quizzles</h1>
+            <h3 id="letsPlay">Lets's Play!</h3>
+            <p>Play now and level up.</p>
+            <div class="btn-div">
+                <button id="home-play-btn" class="play-btn">Play Now</button>
+                <button id="about-btn">About</button>
+            </div>
+        </div>
+
+        <!--About box-->
+        <div class="about-quiz no-display">
+            <h2 class="about-heading">About <span>Quizzles</span></h2>
+            <ul class="rules">
+                <li><span>This quiz will consist of 10 multiple-choice questions.</span></li>
+                <li><span>Each question will have only one correct answer.</span></li>
+                <li><span>Participants will have 10 seconds to select their answer before the timer runs out.</span>
+                </li>
+                <li><span>Once a participant selects an answer, they cannot change it.</span></li>
+                <li><span>If the timer runs out before a participant selects an answer, their answer will be recorded as
+                        blank.</span></li>
+                <li><span>Each correct answer will be awarded 10 points.</span></li>
+                <li><span>There will be no negative marking for incorrect or blank answers.</span></li>
+                <li><span>The participant can see the hint for the answer, in such case 5 marks will be deducted.</span>
+                </li>
+                <li><span>The participant with the highest score at the end of the quiz will be declared the
+                        winner.</span></li>
+            </ul>
+            <div class="btn-div about-btn-div">
+                <button id="back-btn">Back</button>
+                <button id="about-play-btn" class="play-btn">Play Now</button>
+            </div>
+        </div>
+
+        <!--Quiz box-->
+        <div class="quiz-questions no-display">
+            <h2 class="about-heading quiz-h"><span>Quizzles</span> Quiz</h2>
+            <div class="top-div">
+                <div class="score">Score: <span id="score-span">00</span></div>
+                <div class="timer-div">
+                    <i class="fa-sharp fa-solid fa-clock"></i>
+                    <span class="time-left"><span id="time-left-span">10</span>s</span>
+                </div>
+            </div>
+            <p class="ques-no">Question: <span id="ques-no-span">01</span>/10</p>
+            <div id="question-container">
+                <div class="question">
+                    <span id="que-span"> What is the capital city of France? </span>
+                </div>
+                <div class="option-list">
+                    <div class="option">
+                        <div class="opt-correct"><i class="fa-solid fa-check"></i></div>
+                        <div class="opt-wrong"><i class="fa-solid fa-xmark"></i></div>
+                        <div class="opt-no">01</div>
+                        <span id="opt-1-span"></span>
+                    </div>
+                    <div class="option">
+                        <div class="opt-correct"><i class="fa-solid fa-check"></i></div>
+                        <div class="opt-wrong"><i class="fa-solid fa-xmark"></i></div>
+                        <div class="opt-no">02</div>
+                        <span id="opt-2-span"></span>
+                    </div>
+                    <div class="option">
+                        <div class="opt-correct"><i class="fa-solid fa-check"></i></div>
+                        <div class="opt-wrong"><i class="fa-solid fa-xmark"></i></div>
+                        <div class="opt-no">03</div>
+                        <span id="opt-3-span"></span>
+                    </div>
+                    <div class="option">
+                        <div class="opt-correct"><i class="fa-solid fa-check"></i></div>
+                        <div class="opt-wrong"><i class="fa-solid fa-xmark"></i></div>
+                        <div class="opt-no">04</div>
+                        <span id="opt-4-span"></span>
+                    </div>
+                </div>
+                <div class="hint-div">
+                    <i class="fa-solid fa-lightbulb"></i>
+                    <p id="hint-div-p">The city is famous for the Eiffel Tower and its museums.</p>
+                </div>
+            </div>
+            <div class="quiz-btn">
+                <button id="hint-btn">Show Hint</button>
+                <button class="next-btn">Next</button>
+            </div>
+        </div>
+
+        <!--Result Box-->
+        <div class="result-box no-display">
+            <h3>Results</h3>
+            <p>Correct questions : <span id="correctq"> <span id="correct-ques"></span> out of 10 </span></p>
+            <div class="total-score">
+                <p>Your final score is</p>
+                <div class="score-box">
+                    <span id="score-box-span"></span>
+                </div>
+                <div id="red1" class="circle-red"></div>
+                <div id="red2" class="circle-red"></div>
+                <div id="green1" class="circle-green"></div>
+                <div id="green2" class="circle-green"></div>
+                <div id="yellow1" class="circle-yellow"></div>
+                <div class="circle-my-green"></div>
+                <div id="blue1" class="circle-blue"></div>
+                <div id="blue2" class="circle-yellow"></div>
+            </div>
+            <!-- <button id="save-btn" class="result-btn">Save Your Score</button> -->
+            <button id="try-again" class="result-btn">
+                <i class="fa-solid fa-rotate"></i>
+                <span>Try Again</span>
+            </button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="questions.js"></script>
+    <script src="https://kit.fontawesome.com/4f52b70ee0.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
