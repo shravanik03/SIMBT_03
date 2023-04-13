@@ -1,6 +1,6 @@
-READEME File
+SimpleByte Task 3
 
-This a bqsic quiz app created using HTML, CSS JavaScript
+This a basic quiz app created using HTML, CSS JavaScript
 It includes the following functionalities:
 
 1. Time counter
